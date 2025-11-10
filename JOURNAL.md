@@ -27,6 +27,19 @@ Total Hours taken:  4.3
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e76721822ea366a2fc6c4d74a52ca24c67d882a/image.png)
 
 
+I'm Making a Gun!
 
+This should hopefully take like 11 hours, (5.5hrs on each)
+ 
+I mean.. What better way to turn the tables on those nasty trick or treaters then to just point a gun at them and blast their consciousness away.
+
+Note that this is a non functional model and is to not be used for purposes other then cosplay and prop use. If this gets you into any sort of trouble, then the fault is 100% on you.
+
+![Screenshot 2025-11-10 205946](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxNjcsInB1ciI6ImJsb2JfaWQifX0=--ba868c801826468d715f39632b7fba76aa0057b5/Screenshot%202025-11-10%20205946.png)
+
+Hours spent 0.5
+Total hours spent 4.8
+
+ 
   
 
