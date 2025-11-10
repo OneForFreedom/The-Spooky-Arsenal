@@ -35,7 +35,7 @@ I mean.. What better way to turn the tables on those nasty trick or treaters the
 
 Note that this is a non functional model and is to not be used for purposes other then cosplay and prop use. If this gets you into any sort of trouble, then the fault is 100% on you.
 
-![Screenshot 2025-11-10 205946](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxNjcsInB1ciI6ImJsb2JfaWQifX0=--ba868c801826468d715f39632b7fba76aa0057b5/Screenshot%202025-11-10%20205946.png)
+![Screenshot 2025-11-10 205946](https://hc-cdn.hel1.your-objectstorage.com/s/v3/65182f5b65b0a4710c999109c455f6af898127d2_screenshot_2025-11-10_205946.png)
 
 Hours spent 0.5
 Total hours spent 4.8
