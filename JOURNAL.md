@@ -1,6 +1,6 @@
 
 
-## 11/4/2025 - I. Mean. Business.  
+## 10/28/2025 - I. Mean. Business.  
 
 Okay got fusion fired up for my second week of fusion cadding!!
 
@@ -21,7 +21,7 @@ Total Hours taken:  4.3
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e76721822ea366a2fc6c4d74a52ca24c67d882a/image.png)
 
 
-I'm Making a Gun!
+## I'm Making a Gun!
 
 This should hopefully take like 11 hours, (5.5hrs on each)
  
