@@ -34,6 +34,18 @@ Note that this is a non functional model and is to not be used for purposes othe
 Hours spent 0.5
 Total hours spent 4.8
 
+## Finished the sketch!
+
+Okay, I finished making the sketch for the gun (with like almost 500 failed iterations (I'm bluffing))
+
+But it was hard asf and im really proud on how it turned out!
+
+I personally know I spent wayyyy too long on ts
+
+<img width="768" height="487" alt="image" src="https://github.com/user-attachments/assets/796a8e0f-6c7d-468f-a569-f94ec413181c" />
+
+Time taken: 3.2h
+Total time taken 8h
  
   
 
