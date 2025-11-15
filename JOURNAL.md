@@ -57,6 +57,8 @@ Total time taken 8h
 
  <img width="734" height="511" alt="image" src="https://github.com/user-attachments/assets/b22c8770-3bf8-4d98-9556-26b3c8cb2217" />
 
+P.S This image isnt just one extrude, its multiple extrudes at different hieghts
+
 Time taken: 1h
 Total time taken 9h
   
