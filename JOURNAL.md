@@ -61,5 +61,14 @@ P.S This image isnt just one extrude, its multiple extrudes at different hieghts
 
 Time taken: 1h
 Total time taken 9h
-  
+
+## Finished extruding! 
+
+I finished doing all the extrusions, so now i just got the boring filleting and the colouring! I estimate that itll be done in the next 5 hours (I hope)
+
+<img width="953" height="594" alt="image" src="https://github.com/user-attachments/assets/19c4599c-a1d7-4c03-9298-b6273bc8daac" />
+
+Time taken : 1h
+Total time taken: 10h
+
 
