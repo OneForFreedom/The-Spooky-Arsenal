@@ -11,6 +11,8 @@ Do not modify these files to create a functional device. This repo is for decora
 
 ## Demo Link : [Onshape](https://cad.onshape.com/documents/b684601c808382e12e45497b/w/e75fee5b3bcb2dba6ce0c875/e/397108f198c9b55d6288eb63?renderMode=0&uiState=6919c243b8a40fcb055077b7)
 
+If you get a 403 error, please just reload.
+
 ## Here are some cool renders!!
 
 <img width="984" height="550" alt="image" src="https://github.com/user-attachments/assets/0b40ffc4-cc25-4f33-9987-3cc35ec91d34" />
