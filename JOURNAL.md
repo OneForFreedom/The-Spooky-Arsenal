@@ -71,4 +71,25 @@ I finished doing all the extrusions, so now i just got the boring filleting and 
 Time taken : 1h
 Total time taken: 10h
 
+## Fillet a gun with oil!
+
+Okay all fillets are done - hopefully. 
+This took me quite a bit of time as i filleted everything, every vertex, everything.
+
+<img width="881" height="572" alt="image" src="https://github.com/user-attachments/assets/8f4e16de-97be-42c6-b7a5-a412a260012a" />
+
+Time Taken : 3H
+Total time taken: 13h
+
+## Finally done!
+
+I'm finally done desigining the gun! If I'm being honest, it was roughly a waste of time as it is visual and the colour doesn't actually get printed. But I'm doing it for the looks, Right?
+
+<img width="1081" height="735" alt="image" src="https://github.com/user-attachments/assets/13058f84-af39-4ea5-a542-7e76612b6db6" />
+
+Time taken : 3h
+Total time taken : 16h
+
+(Renders in readme!!)
+
 
