@@ -85,6 +85,9 @@ Total time taken: 13h
 
 I'm finally done desigining the gun! If I'm being honest, it was roughly a waste of time as it is visual and the colour doesn't actually get printed. But I'm doing it for the looks, Right?
 
+Oh yeah I also made a bullet!
+
+
 <img width="1081" height="735" alt="image" src="https://github.com/user-attachments/assets/13058f84-af39-4ea5-a542-7e76612b6db6" />
 
 Time taken : 3h
